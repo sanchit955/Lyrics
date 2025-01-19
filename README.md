@@ -1,4 +1,6 @@
 🎵 Dynamic Lyrics Printer
+
+
 This project is a Python script that prints song lyrics dynamically, simulating the flow and rhythm of a song. Each character is displayed with a slight delay, giving the effect of a typewriter or a singer pacing their performance. It's a creative way to make text output feel alive and engaging.
 
 🚀 Features
